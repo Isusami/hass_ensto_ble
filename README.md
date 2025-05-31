@@ -23,7 +23,7 @@ Some users have needed additional pairing in the terminal to establish a Bluetoo
 - Set your Ensto BLE thermostat to pairing mode (blue light blinking)
 - Proceed adding the Ensto BLE thermostat in Home Assistant
   
-# If you want to remove the device and add it again
+### If you want to remove the device and add it again
 - Should remove from bluetoothctl and do the trust and pairing again, bluetoothctl remove XX:XX:XX:XX:XX:XX (replace with your device's MAC address)
 
 ### HACS installation
